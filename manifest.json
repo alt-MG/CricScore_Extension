@@ -1,0 +1,11 @@
+{
+    "name": "Cric Score",
+    "version": "1.0.0",
+    "description": "Display Cricket scores",
+    "manifest_version": 3,
+    "author": "Maharnab Ghosh",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Cricket Score"
+    }
+}
